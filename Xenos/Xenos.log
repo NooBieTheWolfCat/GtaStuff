@@ -1,0 +1,360 @@
+2025-10-31 21:12:37 *NORMAL*     Started on Windows 10.0.0.26200 x64. Driver status: 0xC0000225
+2025-10-31 21:12:57 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 8592, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2025-10-31 21:12:57 *CRITICAL*   Injecting image 'C:\Users\noobi\Desktop\GTA V HACKS\YimMenuV2.dll'
+2025-10-31 21:17:44 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 52976, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2025-10-31 21:17:44 *CRITICAL*   Injecting image 'C:\Users\noobi\Desktop\GTA V HACKS\YimMenuV2.dll'
+
+2025-11-01 10:36:04 *NORMAL*     Started on Windows 10.0.0.26200 x64. Driver status: 0xC0000225
+2025-11-01 10:36:08 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 30444, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2025-11-01 10:36:08 *CRITICAL*   Injecting image 'C:\Users\noobi\Desktop\GTA V HACKS\YimMenuV2.dll'
+2025-11-01 12:05:04 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 30444, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2025-11-01 12:05:04 *ERROR*      Can not attach to the process.
+An invalid Client ID was specified.
+
+2025-11-01 12:05:11 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 14820, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2025-11-01 12:05:11 *CRITICAL*   Injecting image 'C:\Users\noobi\Desktop\GTA V HACKS\YimMenuV2.dll'
+
+2025-11-01 16:38:52 *NORMAL*     Started on Windows 10.0.0.26200 x64. Driver status: 0xC0000225
+2025-11-01 16:39:10 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 36012, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2025-11-01 16:39:10 *CRITICAL*   Injecting image 'C:\Users\noobi\Desktop\GTA V HACKS\YimMenuV2.dll'
+
+2025-11-02 01:19:25 *NORMAL*     Started on Windows 10.0.0.26200 x64. Driver status: 0xC0000225
+2025-11-02 01:19:41 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 54476, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2025-11-02 01:19:41 *CRITICAL*   Injecting image 'C:\Users\noobi\Desktop\GTA V HACKS\YimMenuV2.dll'
+2025-11-02 10:40:58 *NORMAL*     Started on Windows 10.0.0.26200 x64. Driver status: 0xC0000225
+2025-11-02 10:43:45 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 50392, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2025-11-02 10:43:45 *CRITICAL*   Injecting image 'C:\Users\noobi\Desktop\GTA V HACKS\YimMenuV2.dll'
+
+2025-11-02 17:12:50 *NORMAL*     Started on Windows 10.0.0.26200 x64. Driver status: 0xC0000225
+2025-11-02 17:14:02 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 27932, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2025-11-02 17:14:02 *CRITICAL*   Injecting image 'C:\Users\noobi\Desktop\GTA V HACKS\YimMenuV2.dll'
+2025-11-02 17:22:00 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 27932, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2025-11-02 17:22:00 *ERROR*      Can not attach to the process.
+An invalid Client ID was specified.
+
+2025-11-02 17:22:10 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 33496, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2025-11-02 17:22:10 *CRITICAL*   Injecting image 'C:\Users\noobi\Desktop\GTA V HACKS\YimMenuV2.dll'
+2025-11-02 17:44:29 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 33496, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2025-11-02 17:44:29 *ERROR*      Can not attach to the process.
+An invalid Client ID was specified.
+
+2025-11-02 17:44:38 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 7160, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2025-11-02 17:44:38 *CRITICAL*   Injecting image 'C:\Users\noobi\Desktop\GTA V HACKS\YimMenuV2.dll'
+2025-11-02 19:17:56 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 16556, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2025-11-02 19:17:56 *CRITICAL*   Injecting image 'C:\Users\noobi\Desktop\GTA V HACKS\YimMenuV2.dll'
+
+2025-11-02 20:35:04 *NORMAL*     Started on Windows 10.0.0.26200 x64. Driver status: 0xC0000225
+2025-11-02 20:36:13 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 7172, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2025-11-02 20:36:13 *CRITICAL*   Injecting image 'C:\Users\noobi\Desktop\GTA V HACKS\YimMenuV2.dll'
+
+2025-11-02 20:48:38 *NORMAL*     Started on Windows 10.0.0.26200 x64. Driver status: 0xC0000225
+2025-11-02 20:48:47 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 13292, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2025-11-02 20:48:47 *CRITICAL*   Injecting image 'C:\Users\noobi\Desktop\GTA V HACKS\YimMenuV2.dll'
+2025-11-02 20:48:47 *ERROR*      Failed to inject image using default injection, status: 0xC0000022
+2025-11-02 20:48:47 *ERROR*      Failed to inject image 'C:\Users\noobi\Desktop\GTA V HACKS\YimMenuV2.dll'.
+Error code 0xC0000022
+2025-11-02 20:48:51 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 13292, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2025-11-02 20:48:51 *CRITICAL*   Injecting image 'C:\Users\noobi\Desktop\GTA V HACKS\YimMenuV2.dll'
+2025-11-02 20:48:51 *ERROR*      Failed to inject image using default injection, status: 0xC0000022
+2025-11-02 20:48:51 *ERROR*      Failed to inject image 'C:\Users\noobi\Desktop\GTA V HACKS\YimMenuV2.dll'.
+Error code 0xC0000022
+
+2025-11-03 03:49:13 *NORMAL*     Started on Windows 10.0.0.26200 x64. Driver status: 0xC0000225
+2025-11-03 03:49:22 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 7732, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2025-11-03 03:49:22 *CRITICAL*   Injecting image 'C:\Users\noobi\Desktop\GTA V HACKS\YimMenuV2.dll'
+2025-11-03 07:41:52 *NORMAL*     Started on Windows 10.0.0.26200 x64. Driver status: 0xC0000225
+2025-11-03 07:41:52 *ERROR*      File "C:\Users\noobi\Desktop\GTA V HACKS\YimMenuV2.dll" is not a valid PE image
+
+2025-11-03 07:42:06 *NORMAL*     Started on Windows 10.0.0.26200 x64. Driver status: 0xC0000225
+2025-11-03 07:42:06 *ERROR*      File "C:\Users\noobi\Desktop\GTA V HACKS\YimMenuV2.dll" is not a valid PE image
+2025-11-03 07:44:34 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 41488, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2025-11-03 07:44:34 *CRITICAL*   Injecting image 'C:\Users\noobi\OneDrive\Documents\GTA V HACKS\YimMenuV2.dll'
+
+2025-11-03 16:10:15 *NORMAL*     Started on Windows 10.0.0.26200 x64. Driver status: 0xC0000225
+2025-11-03 16:10:18 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 29900, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2025-11-03 16:10:18 *CRITICAL*   Injecting image 'C:\Users\noobi\OneDrive\Documents\GTA V HACKS\YimMenuV2.dll'
+2025-11-03 16:21:30 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 29900, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2025-11-03 16:21:30 *ERROR*      Can not attach to the process.
+An invalid Client ID was specified.
+
+2025-11-03 16:21:41 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 17096, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2025-11-03 16:21:41 *CRITICAL*   Injecting image 'C:\Users\noobi\OneDrive\Documents\GTA V HACKS\YimMenuV2.dll'
+2025-11-03 16:39:49 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 24932, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2025-11-03 16:39:49 *CRITICAL*   Injecting image 'C:\Users\noobi\OneDrive\Documents\GTA V HACKS\YimMenuV2.dll'
+
+2025-11-03 23:42:38 *NORMAL*     Started on Windows 10.0.0.26200 x64. Driver status: 0xC0000225
+2025-11-03 23:46:05 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 28924, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2025-11-03 23:46:05 *CRITICAL*   Injecting image 'C:\Users\noobi\OneDrive\Documents\GTA V HACKS\YimMenuV2.dll'
+2025-11-04 00:10:20 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 28924, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2025-11-04 00:10:20 *ERROR*      Can not attach to the process.
+An invalid Client ID was specified.
+
+2025-11-04 00:10:28 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 13728, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2025-11-04 00:10:28 *CRITICAL*   Injecting image 'C:\Users\noobi\OneDrive\Documents\GTA V HACKS\YimMenuV2.dll'
+
+2025-11-04 09:34:11 *NORMAL*     Started on Windows 10.0.0.26200 x64. Driver status: 0xC0000225
+2025-11-04 09:34:19 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 9436, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2025-11-04 09:34:19 *CRITICAL*   Injecting image 'C:\Users\noobi\OneDrive\Documents\GTA V HACKS\YimMenuV2.dll'
+
+2025-11-04 13:29:42 *NORMAL*     Started on Windows 10.0.0.26200 x64. Driver status: 0xC0000225
+2025-11-04 13:29:54 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 56004, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2025-11-04 13:29:54 *CRITICAL*   Injecting image 'C:\Users\noobi\OneDrive\Documents\GTA V HACKS\YimMenuV2.dll'
+2025-11-04 13:29:54 *ERROR*      Failed to inject image using default injection, status: 0xC0000022
+2025-11-04 13:29:54 *ERROR*      Failed to inject image 'C:\Users\noobi\OneDrive\Documents\GTA V HACKS\YimMenuV2.dll'.
+Error code 0xC0000022
+2025-11-04 13:30:02 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 7472, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2025-11-04 13:30:02 *CRITICAL*   Injecting image 'C:\Users\noobi\OneDrive\Documents\GTA V HACKS\YimMenuV2.dll'
+2025-11-04 13:30:02 *ERROR*      Can't inject 64 bit image 'YimMenuV2.dll' into WOW64 process
+2025-11-04 13:30:04 *ERROR*      Context validation failed, status: 0xC000035A
+2025-11-04 13:40:30 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 56004, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2025-11-04 13:40:30 *CRITICAL*   Injecting image 'C:\Users\noobi\OneDrive\Documents\GTA V HACKS\YimMenuV2.dll'
+2025-11-04 13:40:30 *ERROR*      Failed to inject image using default injection, status: 0xC0000022
+2025-11-04 13:40:30 *ERROR*      Failed to inject image 'C:\Users\noobi\OneDrive\Documents\GTA V HACKS\YimMenuV2.dll'.
+Error code 0xC0000022
+2025-11-04 13:40:32 *CRITICAL*   Injecting image 'C:\Users\noobi\Desktop\NewBase_[unknowncheats.me]_.dll'
+2025-11-04 13:40:32 *ERROR*      Failed to inject image using default injection, status: 0xC0000022
+2025-11-04 13:40:32 *ERROR*      Failed to inject image 'C:\Users\noobi\Desktop\NewBase_[unknowncheats.me]_.dll'.
+Error code 0xC0000022
+2025-11-04 13:40:40 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 7472, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2025-11-04 13:40:40 *CRITICAL*   Injecting image 'C:\Users\noobi\OneDrive\Documents\GTA V HACKS\YimMenuV2.dll'
+2025-11-04 13:40:40 *ERROR*      Can't inject 64 bit image 'YimMenuV2.dll' into WOW64 process
+2025-11-04 13:40:43 *ERROR*      Context validation failed, status: 0xC000035A
+2025-11-04 13:40:43 *CRITICAL*   Injecting image 'C:\Users\noobi\Desktop\NewBase_[unknowncheats.me]_.dll'
+2025-11-04 13:40:43 *ERROR*      Can't inject 64 bit image 'NewBase_[unknowncheats.me]_.dll' into WOW64 process
+2025-11-04 13:40:43 *ERROR*      Context validation failed, status: 0xC000035A
+2025-11-04 13:40:47 *ERROR*      Failed to load BlackBone driver:
+
+Windows cannot verify the digital signature for this file. A recent hardware or software change might have installed a file that is signed incorrectly or damaged, or that might be malicious software from an unknown source.
+
+2025-11-04 13:41:07 *ERROR*      Failed to load BlackBone driver:
+
+Windows cannot verify the digital signature for this file. A recent hardware or software change might have installed a file that is signed incorrectly or damaged, or that might be malicious software from an unknown source.
+
+2025-11-04 13:41:12 *ERROR*      Failed to load BlackBone driver:
+
+Windows cannot verify the digital signature for this file. A recent hardware or software change might have installed a file that is signed incorrectly or damaged, or that might be malicious software from an unknown source.
+
+
+2025-11-04 16:44:15 *NORMAL*     Started on Windows 10.0.0.26200 x64. Driver status: 0xC0000225
+2025-11-04 16:44:25 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 44096, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2025-11-04 16:44:25 *CRITICAL*   Injecting image 'C:\Users\noobi\OneDrive\Documents\GTA V HACKS\YimMenuV2.dll'
+2025-11-04 16:44:25 *ERROR*      Failed to inject image using default injection, status: 0xC0000022
+2025-11-04 16:44:25 *ERROR*      Failed to inject image 'C:\Users\noobi\OneDrive\Documents\GTA V HACKS\YimMenuV2.dll'.
+Error code 0xC0000022
+2025-11-04 16:44:32 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 14100, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2025-11-04 16:44:32 *CRITICAL*   Injecting image 'C:\Users\noobi\OneDrive\Documents\GTA V HACKS\YimMenuV2.dll'
+2025-11-04 16:44:32 *ERROR*      Can't inject 64 bit image 'YimMenuV2.dll' into WOW64 process
+2025-11-04 16:44:34 *ERROR*      Context validation failed, status: 0xC000035A
+
+2025-11-04 17:02:53 *NORMAL*     Started on Windows 10.0.0.26200 x64. Driver status: 0xC0000225
+2025-11-04 17:03:11 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 47180, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2025-11-04 17:03:11 *CRITICAL*   Injecting image 'C:\Users\noobi\OneDrive\Documents\GTA V HACKS\YimMenuV2.dll'
+2025-11-04 17:03:49 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 47180, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2025-11-04 17:03:49 *CRITICAL*   Injecting image 'C:\Users\noobi\OneDrive\Documents\GTA V HACKS\YimMenu.dll'
+2025-11-04 17:15:43 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 14860, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2025-11-04 17:15:43 *CRITICAL*   Injecting image 'C:\Users\noobi\OneDrive\Documents\GTA V HACKS\YimMenu.dll'
+2025-11-04 17:26:56 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 22176, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2025-11-04 17:26:56 *CRITICAL*   Injecting image 'C:\Users\noobi\OneDrive\Documents\GTA V HACKS\YimMenu.dll'
+2025-11-05 00:05:31 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 50640, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2025-11-05 00:05:31 *CRITICAL*   Injecting image 'C:\Users\noobi\OneDrive\Documents\GTA V HACKS\YimMenu.dll'
+
+2025-11-05 06:31:47 *NORMAL*     Started on Windows 10.0.0.26200 x64. Driver status: 0xC0000225
+2025-11-05 06:33:40 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 21580, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2025-11-05 06:33:40 *CRITICAL*   Injecting image 'C:\Users\noobi\OneDrive\Documents\GTA V HACKS\YimMenu.dll'
+
+2025-11-05 15:27:07 *NORMAL*     Started on Windows 10.0.0.26200 x64. Driver status: 0xC0000225
+2025-11-05 15:27:14 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 48664, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2025-11-05 15:27:14 *CRITICAL*   Injecting image 'C:\Users\noobi\OneDrive\Documents\GTA V HACKS\YimMenu.dll'
+2025-11-05 17:08:22 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 30284, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2025-11-05 17:08:22 *CRITICAL*   Injecting image 'C:\Users\noobi\OneDrive\Documents\GTA V HACKS\YimMenu.dll'
+
+2025-11-06 17:27:06 *NORMAL*     Started on Windows 10.0.0.26200 x64. Driver status: 0xC0000225
+2025-11-06 17:27:19 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 59984, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2025-11-06 17:27:19 *CRITICAL*   Injecting image 'C:\Users\noobi\OneDrive\Documents\GTA V HACKS\YimMenu.dll'
+2025-11-06 21:25:13 *NORMAL*     Started on Windows 10.0.0.26200 x64. Driver status: 0xC0000225
+2025-11-06 21:27:28 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 55816, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2025-11-06 21:27:28 *CRITICAL*   Injecting image 'C:\Users\noobi\OneDrive\Documents\GTA V HACKS\YimMenu.dll'
+
+2025-11-07 15:27:18 *NORMAL*     Started on Windows 10.0.0.26200 x64. Driver status: 0xC0000225
+2025-11-07 15:28:30 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 64628, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2025-11-07 15:28:30 *CRITICAL*   Injecting image 'C:\Users\noobi\OneDrive\Documents\GTA V HACKS\YimMenu.dll'
+
+2025-11-08 15:21:12 *NORMAL*     Started on Windows 10.0.0.26200 x64. Driver status: 0xC0000225
+2025-11-08 15:21:42 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 68904, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2025-11-08 15:21:42 *CRITICAL*   Injecting image 'C:\Users\noobi\OneDrive\Documents\GTA V HACKS\YimMenu.dll'
+
+2025-11-10 12:51:07 *NORMAL*     Started on Windows 10.0.0.26200 x64. Driver status: 0xC0000225
+2025-11-10 12:52:21 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 16972, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2025-11-10 12:52:21 *CRITICAL*   Injecting image 'C:\Users\noobi\OneDrive\Documents\GTA V HACKS\YimMenu.dll'
+
+2025-11-14 18:57:37 *NORMAL*     Started on Windows 10.0.0.26200 x64. Driver status: 0xC0000225
+2025-11-14 18:57:56 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 2768, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2025-11-14 18:57:56 *CRITICAL*   Injecting image 'C:\Users\noobi\OneDrive\Documents\GTA V HACKS\YimMenu.dll'
+2025-11-15 04:07:14 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 2768, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2025-11-15 04:07:14 *ERROR*      Can not attach to the process.
+An invalid Client ID was specified.
+
+2025-11-15 04:07:21 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 7444, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2025-11-15 04:07:21 *CRITICAL*   Injecting image 'C:\Users\noobi\OneDrive\Documents\GTA V HACKS\YimMenu.dll'
+2025-11-15 06:00:17 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 7444, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2025-11-15 06:00:17 *ERROR*      Can not attach to the process.
+An invalid Client ID was specified.
+
+2025-11-15 06:00:22 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 25368, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2025-11-15 06:00:22 *CRITICAL*   Injecting image 'C:\Users\noobi\OneDrive\Documents\GTA V HACKS\YimMenu.dll'
+2025-11-15 07:37:37 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 15760, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2025-11-15 07:37:37 *CRITICAL*   Injecting image 'C:\Users\noobi\OneDrive\Documents\GTA V HACKS\YimMenu.dll'
+2025-11-15 12:02:15 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 15760, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2025-11-15 12:02:15 *ERROR*      Can not attach to the process.
+An invalid Client ID was specified.
+
+2025-11-15 12:02:25 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 16784, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2025-11-15 12:02:25 *CRITICAL*   Injecting image 'C:\Users\noobi\OneDrive\Documents\GTA V HACKS\YimMenu.dll'
+2025-11-15 15:42:06 *NORMAL*     Started on Windows 10.0.0.26200 x64. Driver status: 0xC0000225
+2025-11-15 15:42:55 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 26668, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2025-11-15 15:42:55 *CRITICAL*   Injecting image 'C:\Users\noobi\OneDrive\Documents\GTA V HACKS\YimMenu.dll'
+
+2025-11-15 18:37:17 *NORMAL*     Started on Windows 10.0.0.26200 x64. Driver status: 0xC0000225
+2025-11-15 18:37:19 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 5804, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2025-11-15 18:37:19 *CRITICAL*   Injecting image 'C:\Users\noobi\OneDrive\Documents\GTA V HACKS\YimMenu.dll'
+
+2025-11-15 21:22:22 *NORMAL*     Started on Windows 10.0.0.26200 x64. Driver status: 0xC0000225
+2025-11-15 21:22:44 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 19216, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2025-11-15 21:22:44 *CRITICAL*   Injecting image 'C:\Users\noobi\OneDrive\Documents\GTA V HACKS\YimMenu.dll'
+2025-11-15 21:26:21 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 19216, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2025-11-15 21:26:21 *ERROR*      Can not attach to the process.
+An invalid Client ID was specified.
+
+2025-11-15 21:26:30 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 20768, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2025-11-15 21:26:30 *CRITICAL*   Injecting image 'C:\Users\noobi\OneDrive\Documents\GTA V HACKS\YimMenu.dll'
+2025-11-15 22:13:36 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 20768, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2025-11-15 22:13:36 *ERROR*      Can not attach to the process.
+An invalid Client ID was specified.
+
+2025-11-15 22:13:43 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 22940, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2025-11-15 22:13:43 *CRITICAL*   Injecting image 'C:\Users\noobi\OneDrive\Documents\GTA V HACKS\YimMenu.dll'
+2025-11-15 22:15:27 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 22940, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2025-11-15 22:15:27 *ERROR*      Can not attach to the process.
+An invalid Client ID was specified.
+
+2025-11-15 22:15:32 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 26776, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2025-11-15 22:15:32 *CRITICAL*   Injecting image 'C:\Users\noobi\OneDrive\Documents\GTA V HACKS\YimMenu.dll'
+2025-11-15 22:29:52 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 29816, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2025-11-15 22:29:52 *CRITICAL*   Injecting image 'C:\Users\noobi\OneDrive\Documents\GTA V HACKS\YimMenu.dll'
+
+2025-11-16 07:41:43 *NORMAL*     Started on Windows 10.0.0.26200 x64. Driver status: 0xC0000225
+2025-11-16 07:41:54 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 24260, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2025-11-16 07:41:54 *CRITICAL*   Injecting image 'C:\Users\noobi\OneDrive\Documents\GTA V HACKS\YimMenu.dll'
+
+2025-11-16 09:46:20 *NORMAL*     Started on Windows 10.0.0.26200 x64. Driver status: 0xC0000225
+2025-11-16 09:46:42 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 6120, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2025-11-16 09:46:42 *CRITICAL*   Injecting image 'C:\Users\noobi\OneDrive\Documents\GTA V HACKS\YimMenu.dll'
+2025-11-16 10:01:12 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 22952, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2025-11-16 10:01:12 *CRITICAL*   Injecting image 'C:\Users\noobi\OneDrive\Documents\GTA V HACKS\YimMenu.dll'
+2025-11-16 10:10:54 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 23132, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2025-11-16 10:10:54 *CRITICAL*   Injecting image 'C:\Users\noobi\OneDrive\Documents\GTA V HACKS\YimMenu.dll'
+2025-11-16 10:33:53 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 31936, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2025-11-16 10:33:53 *CRITICAL*   Injecting image 'C:\Users\noobi\OneDrive\Documents\GTA V HACKS\YimMenu.dll'
+
+2025-11-16 12:44:52 *NORMAL*     Started on Windows 10.0.0.26200 x64. Driver status: 0xC0000225
+2025-11-16 12:45:27 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 31708, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2025-11-16 12:45:28 *CRITICAL*   Injecting image 'C:\Users\noobi\OneDrive\Documents\GTA V HACKS\YimMenu.dll'
+
+2025-11-16 13:05:22 *NORMAL*     Started on Windows 10.0.0.26200 x64. Driver status: 0xC0000225
+2025-11-16 13:06:23 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 5068, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2025-11-16 13:06:23 *CRITICAL*   Injecting image 'C:\Users\noobi\OneDrive\Documents\GTA V HACKS\YimMenu.dll'
+
+2025-11-16 16:12:01 *NORMAL*     Started on Windows 10.0.0.26200 x64. Driver status: 0xC0000225
+2025-11-16 16:12:53 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 16516, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2025-11-16 16:12:53 *CRITICAL*   Injecting image 'C:\Users\noobi\OneDrive\Documents\GTA V HACKS\YimMenu.dll'
+
+2025-11-16 18:43:26 *NORMAL*     Started on Windows 10.0.0.26200 x64. Driver status: 0xC0000225
+2025-11-16 18:43:47 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 31348, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2025-11-16 18:43:47 *CRITICAL*   Injecting image 'C:\Users\noobi\OneDrive\Documents\GTA V HACKS\YimMenu.dll'
+
+2025-11-16 22:19:09 *NORMAL*     Started on Windows 10.0.0.26200 x64. Driver status: 0xC0000225
+2025-11-16 22:19:56 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 33996, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2025-11-16 22:19:56 *CRITICAL*   Injecting image 'C:\Users\noobi\OneDrive\Documents\GTA V HACKS\YimMenu.dll'
+
+2025-11-17 08:13:13 *NORMAL*     Started on Windows 10.0.0.26200 x64. Driver status: 0xC0000225
+2025-11-17 08:13:19 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 25992, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2025-11-17 08:13:19 *CRITICAL*   Injecting image 'C:\Users\noobi\OneDrive\Documents\GTA V HACKS\YimMenu.dll'
+
+2025-11-17 10:57:44 *NORMAL*     Started on Windows 10.0.0.26200 x64. Driver status: 0xC0000225
+2025-11-17 10:58:37 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 23152, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2025-11-17 10:58:37 *CRITICAL*   Injecting image 'C:\Users\noobi\OneDrive\Documents\GTA V HACKS\YimMenu.dll'
+
+2025-11-17 12:57:14 *NORMAL*     Started on Windows 10.0.0.26200 x64. Driver status: 0xC0000225
+2025-11-17 12:58:26 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 37352, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2025-11-17 12:58:26 *CRITICAL*   Injecting image 'C:\Users\noobi\OneDrive\Documents\GTA V HACKS\YimMenu.dll'
+
+2025-11-17 19:18:17 *NORMAL*     Started on Windows 10.0.0.26200 x64. Driver status: 0xC0000225
+2025-11-17 19:18:24 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 7780, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2025-11-17 19:18:24 *CRITICAL*   Injecting image 'C:\Users\noobi\OneDrive\Documents\GTA V HACKS\YimMenu.dll'
+
+2025-11-18 15:50:02 *NORMAL*     Started on Windows 10.0.0.26200 x64. Driver status: 0xC0000225
+2025-11-18 15:50:27 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 42300, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2025-11-18 15:50:27 *CRITICAL*   Injecting image 'C:\Users\noobi\OneDrive\Documents\GTA V HACKS\YimMenu.dll'
+
+2025-11-19 04:37:53 *NORMAL*     Started on Windows 10.0.0.26200 x64. Driver status: 0xC0000225
+2025-11-19 04:38:45 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 46372, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2025-11-19 04:38:45 *CRITICAL*   Injecting image 'C:\Users\noobi\OneDrive\Documents\GTA V HACKS\YimMenu.dll'
+2025-11-19 18:25:57 *NORMAL*     Started on Windows 10.0.0.26200 x64. Driver status: 0xC0000225
+2025-11-19 18:28:08 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 49400, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2025-11-19 18:28:08 *CRITICAL*   Injecting image 'C:\Users\noobi\OneDrive\Documents\GTA V HACKS\YimMenu.dll'
+
+2025-11-20 17:46:29 *NORMAL*     Started on Windows 10.0.0.26200 x64. Driver status: 0xC0000225
+2025-11-20 17:46:39 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 36456, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2025-11-20 17:46:39 *CRITICAL*   Injecting image 'C:\Users\noobi\OneDrive\Documents\GTA V HACKS\YimMenu.dll'
+
+2025-11-21 19:59:09 *NORMAL*     Started on Windows 10.0.0.26200 x64. Driver status: 0xC0000225
+2025-11-21 19:59:33 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 50792, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2025-11-21 19:59:33 *CRITICAL*   Injecting image 'C:\Users\noobi\OneDrive\Documents\GTA V HACKS\YimMenu.dll'
+
+2025-11-22 08:15:38 *NORMAL*     Started on Windows 10.0.0.26200 x64. Driver status: 0xC0000225
+2025-11-22 08:15:49 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 38488, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2025-11-22 08:15:49 *CRITICAL*   Injecting image 'C:\Users\noobi\OneDrive\Documents\GTA V HACKS\YimMenu.dll'
+
+2025-11-23 06:58:29 *NORMAL*     Started on Windows 10.0.0.26200 x64. Driver status: 0xC0000225
+2025-11-23 06:58:33 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 1872, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2025-11-23 06:58:33 *CRITICAL*   Injecting image 'C:\Users\noobi\OneDrive\Documents\GTA V HACKS\YimMenu.dll'
+
+2025-11-23 19:34:04 *NORMAL*     Started on Windows 10.0.0.26200 x64. Driver status: 0xC0000225
+2025-11-23 19:34:09 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 23892, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2025-11-23 19:34:09 *CRITICAL*   Injecting image 'C:\Users\noobi\OneDrive\Documents\GTA V HACKS\YimMenu.dll'
+
+2025-11-24 22:44:07 *NORMAL*     Started on Windows 10.0.0.26200 x64. Driver status: 0xC0000225
+2025-11-24 22:44:16 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 32772, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2025-11-24 22:44:16 *CRITICAL*   Injecting image 'C:\Users\noobi\OneDrive\Documents\GTA V HACKS\YimMenu.dll'
+
+2025-11-25 17:09:02 *NORMAL*     Started on Windows 10.0.0.26200 x64. Driver status: 0xC0000225
+2025-11-25 17:10:01 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 10676, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2025-11-25 17:10:01 *CRITICAL*   Injecting image 'C:\Users\noobi\OneDrive\Documents\GTA V HACKS\YimMenu.dll'
+
+2025-11-26 03:41:43 *NORMAL*     Started on Windows 10.0.0.26200 x64. Driver status: 0xC0000225
+2025-11-26 03:41:45 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 32284, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2025-11-26 03:41:45 *CRITICAL*   Injecting image 'C:\Users\noobi\OneDrive\Documents\GTA V HACKS\YimMenu.dll'
+
+2025-11-26 09:17:36 *NORMAL*     Started on Windows 10.0.0.26200 x64. Driver status: 0xC0000225
+2025-11-26 09:17:41 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 15320, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2025-11-26 09:17:41 *CRITICAL*   Injecting image 'C:\Users\noobi\OneDrive\Documents\GTA V HACKS\YimMenu.dll'
+
+2025-11-26 19:14:27 *NORMAL*     Started on Windows 10.0.0.26200 x64. Driver status: 0xC0000225
+2025-11-26 19:14:59 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 44612, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2025-11-26 19:14:59 *CRITICAL*   Injecting image 'C:\Users\noobi\OneDrive\Documents\GTA V HACKS\YimMenu.dll'
+
+2025-11-27 05:51:21 *NORMAL*     Started on Windows 10.0.0.26200 x64. Driver status: 0xC0000225
+2025-11-27 05:51:25 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 35352, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2025-11-27 05:51:25 *CRITICAL*   Injecting image 'C:\Users\noobi\OneDrive\Documents\GTA V HACKS\YimMenu.dll'
+2025-11-27 09:08:22 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 35656, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2025-11-27 09:08:22 *CRITICAL*   Injecting image 'C:\Users\noobi\OneDrive\Documents\GTA V HACKS\YimMenu.dll'
+2025-11-27 11:15:45 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 35656, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2025-11-27 11:15:45 *CRITICAL*   Injecting image 'C:\Users\noobi\OneDrive\Documents\GTA V HACKS\YimMenu.dll'
+2025-11-27 11:15:46 *ERROR*      Failed to inject image using default injection, status: 0xC000010E
+2025-11-27 11:15:46 *ERROR*      Failed to inject image 'C:\Users\noobi\OneDrive\Documents\GTA V HACKS\YimMenu.dll'.
+Error code 0xC000010E
+2025-11-27 11:18:07 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 33828, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2025-11-27 11:18:07 *CRITICAL*   Injecting image 'C:\Users\noobi\OneDrive\Documents\GTA V HACKS\YimMenu.dll'
+
+2025-11-27 14:47:15 *NORMAL*     Started on Windows 10.0.0.26200 x64. Driver status: 0xC0000225
+
