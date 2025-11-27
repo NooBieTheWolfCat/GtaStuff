@@ -1,0 +1,21 @@
+1. disable whatever anti-virus you are using
+
+2. Disable battleye in your rockstar launcher settings
+
+3. place the WINMM.dll into your GTA V directory where gta5.exe is located and exclude it from your anti-virus
+
+4. place YimMenu.dll somewhere safe and exclude it from your anti-virus
+
+5. place the xenos folder somewhere safe and also exclude it from your anti-virus
+
+6. launch Xenos64.exe and add the YimMenu.dll to the list
+
+7. launch GTA V and wait for it to load into the menu screen
+
+8. Select the gta5 process from the list in Xenos and click inject
+
+9. Wait for the menu to fully load in then load into story mode
+
+10. Once loaded, open the menu with the INSERT key, go to network tab, and create a new public session
+
+11. Enjoy modding!
